@@ -1,0 +1,22 @@
+.jumbotron {
+	background-image: url(../images/dcMetro.jpg);
+ color:#6E2C00;
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
+
+body {
+	background-image: url(../images/metro.png);
+	background-repeat: no-repeat;
+}
+
+.panel-heading {
+	background-color: blue;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #F6DDCC;
+    color: grey;
+
+}
